@@ -23,3 +23,5 @@ We welcome contributions, but recommend you open an issue first for discussion.
 ## Copyright
 
 All rights reserved. NumWorks is a registered trademark.
+## Demo Change
+This is my first contribution using Git and GitHub.
